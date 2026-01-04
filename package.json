@@ -3,6 +3,10 @@
     "author": "Romeo Sarkar",
     "contributors": [],
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/romeosarkar10x-typescript/next-tsr"
+    },
     "module": "index.ts",
     "type": "module",
     "devDependencies": {
