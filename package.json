@@ -2,10 +2,10 @@
     "name": "next-tsr",
     "author": "Romeo Sarkar",
     "contributors": [],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/romeosarkar10x-typescript/next-tsr"
+        "url": "git+https://github.com/romeosarkar10x-typescript/next-tsr.git"
     },
     "module": "index.ts",
     "type": "module",
